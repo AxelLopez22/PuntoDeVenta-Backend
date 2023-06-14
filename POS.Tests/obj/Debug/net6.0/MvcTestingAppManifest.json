@@ -1,0 +1,7 @@
+{
+  "POS.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Axel\\Desktop\\.NetCore\\PuntoDeVenta\\POS.WebApi",
+  "POS.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Axel\\Desktop\\.NetCore\\PuntoDeVenta\\POS.Application",
+  "POS.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Axel\\Desktop\\.NetCore\\PuntoDeVenta\\POS.Domain",
+  "POS.Infraestructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Axel\\Desktop\\.NetCore\\PuntoDeVenta\\POS.Infraestructure",
+  "POS.Utilities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Axel\\Desktop\\.NetCore\\PuntoDeVenta\\POS.Utilities"
+}

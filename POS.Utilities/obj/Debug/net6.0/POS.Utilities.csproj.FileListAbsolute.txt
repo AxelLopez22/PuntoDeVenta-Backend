@@ -1,0 +1,12 @@
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Utilities\bin\Debug\net6.0\POS.Utilities.deps.json
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Utilities\bin\Debug\net6.0\POS.Utilities.dll
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Utilities\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Utilities\obj\Debug\net6.0\POS.Utilities.csproj.AssemblyReference.cache
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Utilities\obj\Debug\net6.0\POS.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfoInputs.cache
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfo.cs
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Utilities\obj\Debug\net6.0\POS.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Utilities\obj\Debug\net6.0\POS.Utilities.dll
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Utilities\obj\Debug\net6.0\refint\POS.Utilities.dll
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Utilities\obj\Debug\net6.0\POS.Utilities.pdb
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Utilities\obj\Debug\net6.0\ref\POS.Utilities.dll

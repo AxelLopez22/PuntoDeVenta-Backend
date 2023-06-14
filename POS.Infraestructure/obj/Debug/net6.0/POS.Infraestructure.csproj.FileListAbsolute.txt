@@ -1,0 +1,17 @@
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\bin\Debug\net6.0\POS.Infraestructure.deps.json
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\bin\Debug\net6.0\POS.Infraestructure.dll
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\bin\Debug\net6.0\POS.Infraestructure.pdb
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\bin\Debug\net6.0\POS.Domain.dll
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\bin\Debug\net6.0\POS.Utilities.dll
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\bin\Debug\net6.0\POS.Domain.pdb
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.AssemblyInfo.cs
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.csproj.CopyComplete
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.dll
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\obj\Debug\net6.0\refint\POS.Infraestructure.dll
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\obj\Debug\net6.0\POS.Infraestructure.pdb
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Infraestructure\obj\Debug\net6.0\ref\POS.Infraestructure.dll

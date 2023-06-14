@@ -1,0 +1,14 @@
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\bin\Debug\net6.0\POS.Domain.deps.json
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\bin\Debug\net6.0\POS.Domain.runtimeconfig.json
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\bin\Debug\net6.0\POS.Domain.dll
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\bin\Debug\net6.0\POS.Domain.pdb
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.AssemblyReference.cache
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\obj\Debug\net6.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfoInputs.cache
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfo.cs
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\obj\Debug\net6.0\POS.Domain.dll
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\obj\Debug\net6.0\refint\POS.Domain.dll
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\obj\Debug\net6.0\POS.Domain.pdb
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\obj\Debug\net6.0\POS.Domain.genruntimeconfig.cache
+C:\Users\Axel\Desktop\.NetCore\PuntoDeVenta\POS.Domain\obj\Debug\net6.0\ref\POS.Domain.dll
